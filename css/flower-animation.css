@@ -1315,7 +1315,3 @@ body {
     transform: scale(0);
   }
 }
-.container * {
-  -webkit-animation-play-state: paused !important;
-          animation-play-state: paused !important;
-}
